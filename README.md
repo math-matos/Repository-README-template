@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/math-matos/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/math-matos/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/math-matos/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/math-matos/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/math-matos/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/math-matos/Repository-README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/math-matos/Repository-README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/math-matos/Repository-README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/math-matos/Repository-README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/math-matos/Repository-README-template?style=for-the-badge)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
